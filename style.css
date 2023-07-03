@@ -1,0 +1,24 @@
+.icon{
+    cursor: pointer;
+}
+.logo{
+    width: 50px;
+    height: 50px;
+}
+.imgcae{
+    width: 100%;
+    height: 100%;
+    border-radius: 20px ;
+}
+.innerc{
+    height: 450px;
+}
+@media (max-width:680px) {
+   
+    .innerc{
+        height: 250px;
+    }
+
+    
+
+}
